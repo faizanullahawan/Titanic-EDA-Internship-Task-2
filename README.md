@@ -190,25 +190,6 @@ screenshots/
 
 ---
 
-## Repository Structure
-
-```
-Titanic-EDA-Internship-Task-2/
-│
-├── TASK2_INTERNSHIP.ipynb
-├── dataset/
-│   └── tested.csv
-│
-├── screenshots/
-│   ├── screenshot1.png
-│   ├── screenshot2.png
-│   └── screenshot3.png
-│
-├── README.md
-└── requirements.txt
-```
-
----
 
 ## Final Conclusion
 
